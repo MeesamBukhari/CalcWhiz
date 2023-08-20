@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to CalcWhiz 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.6-blue.svg?cacheSeconds=2592000"/>
+  <img src="https://img.shields.io/badge/Version-1.0.5-blue.svg?cacheSeconds=2592000"/>
   <a href="https://github.com/MeesamBukhari/calcwhiz/blob/master/LICENSE.txt">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" target="_blank" />
   </a>
@@ -34,6 +34,9 @@ npx calcwhiz
 * Website: [MeesamBukhari](https://meesambukharipk.web.app)
 * Github: [@MeesamBukhari](https://github.com/MeesamBukhari)
 * LinkedIn: [@MeesamBukhari](https://linkedin.com/in/MeesamBukhari)
+
+## NPM Official Link:
+Click to visit NPM Package [CalcWhiz](https://npmjs.com/package/calcwhiz/)
 
 ## 📝 License
 
