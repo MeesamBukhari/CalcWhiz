@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.4-blue.svg?cacheSeconds=2592000"/>
-  <a href="https://github.com/MeesamBukhari/calcwhiz/blob/master/LICENSE">
+  <a href="https://github.com/MeesamBukhari/calcwhiz/blob/master/LICENSE.txt">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" target="_blank" />
   </a>
   <a href="https://meesambukharipk.web.app/">
