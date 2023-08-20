@@ -27,7 +27,7 @@ npm i -g calcwhiz
 npx calcwhiz
 ```
 
-## Author
+## 👨‍💻 Author
 
 👤 **Meesam Bukhari**
 
@@ -35,7 +35,7 @@ npx calcwhiz
 * Github: [@MeesamBukhari](https://github.com/MeesamBukhari)
 * LinkedIn: [@MeesamBukhari](https://linkedin.com/in/MeesamBukhari)
 
-## NPM Official Link:
+## 🌐 NPM Official Link
 Click to visit NPM Package [CalcWhiz](https://npmjs.com/package/calcwhiz/)
 
 ## 📝 License
