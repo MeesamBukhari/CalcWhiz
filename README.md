@@ -5,7 +5,7 @@
   <a href="https://github.com/MeesamBukhari/calcwhiz/blob/master/LICENSE.txt">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-red.svg" target="_blank" />
   </a>
-  <a href="https://meesambukharipk.web.app/">
+  <a href="https://meesambukhari.vercel.app/">
     <img alt="Portfolio: MeesamBukhari" src="https://img.shields.io/badge/My_Portfolio-purple" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/meesambukhari/">
