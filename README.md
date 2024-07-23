@@ -31,7 +31,7 @@ npx calcwhiz
 
 👤 **Meesam Bukhari**
 
-* Website: [MeesamBukhari](https://meesambukharipk.web.app)
+* Website: [MeesamBukhari](https://meesambukhari.vercel.app)
 * Github: [@MeesamBukhari](https://github.com/MeesamBukhari)
 * LinkedIn: [@MeesamBukhari](https://linkedin.com/in/MeesamBukhari)
 
